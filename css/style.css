@@ -90,7 +90,7 @@ html{
 #home::before{ 
     content: "";
     position: absolute;
-    background: url('/static/img/ss6.jpg') no-repeat center center/cover;
+    background: url('img\ss6.jpg') no-repeat center center/cover;
     height: 642px;
     top:0px;
     left:0px;
